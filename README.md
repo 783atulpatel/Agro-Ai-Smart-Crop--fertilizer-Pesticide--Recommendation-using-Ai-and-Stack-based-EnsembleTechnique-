@@ -1,4 +1,4 @@
-📊#Security Analysis Automation
+#Security Analysis Automation
 
 Overview
 Security Analysis involves analyzing individual securities and the market to estimate risks and returns, ultimately identifying undervalued or overvalued securities for strategic buying or selling decisions. This repository automates essential aspects of security analysis to assist investors and analysts in making data-driven financial decisions.
