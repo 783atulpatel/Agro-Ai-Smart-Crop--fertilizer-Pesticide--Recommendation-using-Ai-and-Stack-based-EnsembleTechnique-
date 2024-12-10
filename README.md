@@ -37,6 +37,6 @@ Security Analysis involves analyzing individual securities and the market to est
 
 1. **Clone the repository**:  
 
-   git clone https://github.com/yourusername/security-analysis-automation.git
-   cd security-analysis-automation
+ - git clone https://github.com/yourusername/security-analysis-automation.git
+-  cd security-analysis-automation
    python automation.py
